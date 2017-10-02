@@ -33,7 +33,7 @@ We decided to continue our efforts in parallel, and at the end of it compare our
 After a thorough effort, where we:
 
 1. Collected more than [100 ideas](IDEAS.md) from across the tech org
-2. Grouped these and drafted them as values in 6 independent efforts
+2. Grouped these and drafted them as values in [6 independent efforts](GROUPINGS.md)
 3. Took the best of these to form our final values and then associated tech specific tactics with them,
 
 We quite incredibly came up with a set of values that were remarkably similar to those of the company. While the wording and number of values were different, the values instilled in each were much the same. Take a look:
@@ -73,7 +73,7 @@ We believe that living by the company values; and coupling them with tech specif
 
 * Use available forums to ensure your voice is heard
 * Take action; Found an issue with our deploy strategy? Propose a plan to fix it! Found a bug in the code as you were implementing a feature? Write a story for it!
-* Leave everything better than it was found. If you can make it better in 5 minutes, do it. If you can't, follow up."
+* Leave everything better than it was found. If you can make it better in 5 minutes, do it. If you can't, follow up.
 * Break down complex problems into smaller, bite-sized pieces; participate in Inceptions and IPMs
 * Define SMART goals at the individual, team and company level
 * Work with your manager to ensure we are making progress to achieving our goals
@@ -83,7 +83,7 @@ We believe that living by the company values; and coupling them with tech specif
 
 **MAKE FAST DECISIONS**  
 
-* Participate in morning stand-ups and have frequent 1:1’s
+* Participate in morning stand-ups and have frequent 1:1's
 * Use project management tools to share tasks and progress
 * Encourage pair programming and find other ways to share knowledge in and outside of your team
 * Perform code reviews
