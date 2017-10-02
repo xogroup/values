@@ -1,4 +1,4 @@
-# Our Software Principles
+# Our Values
 
 ## Motivation
 
@@ -36,7 +36,7 @@ After a thorough effort, where we:
 2. Grouped these and drafted them as values in 6 independent efforts
 3. Took the best of these to form our final values and then associated tech specific tactics with them,
 
-We quite incredibly came up with a set of values that were remarkably similar to those of the company. While the wording and number of values was different, the values instilled in each were much the same. Take a look:
+We quite incredibly came up with a set of values that were remarkably similar to those of the company. While the wording and number of values were different, the values instilled in each were much the same. Take a look:
 
 * [Tech defined values](TECHVALUES.md)
 * [Company defined values](COMPANYVALUES.md)
@@ -45,7 +45,7 @@ We quite incredibly came up with a set of values that were remarkably similar to
 ## The Outcome
 Because of the similarities between the tech values and the company values, we concluded that we should still keep ours as a reference; but align our tech specific tactics that we had originally defined as part of our values, with the company values. 
 
-We believe that living by the company values; and coupling them with tech specific operational items as well as examples of how to apply the values and tactics within the tech org, serves as a strong foundation for guiding our decisions and initiatives.
+We believe that living by the company values; and coupling them with tech specific operational items as well as examples of how to apply the values and tactics within the tech org, serves as a strong foundation for guiding our decisions and initiatives. Below you can find the list of operational items that we identified per company value. This is a living breathing list that is open to ammendment by anyone within our tech org.
 
 **LOVE OUR USERS**  
 
@@ -106,3 +106,6 @@ We believe that living by the company values; and coupling them with tech specif
 * Write about your experiences and publish them
 * Participate in professional engagements such as conferences or Meetups
 * Be an ambassador
+
+## Next Steps
+To conclude this excercise, we will also be adding specific examples of where the company values and the above tactics can be utilized within our tech organization.
