@@ -49,6 +49,7 @@ We believe that through living by the company values; and coupling them with tec
 
 **LOVE OUR USERS**  
 
+* Technical quality provides user value. We balance both when building software.
 * Write user stories that voice the problem we are trying to solve from the users' perspective
 * Gather data to make decisions using analytics and user testing; allow this data to challenge any preconceived notions
 * Keep the context of our industry relevant by continuously reminding ourselves who our users are
@@ -64,15 +65,20 @@ We believe that through living by the company values; and coupling them with tec
 * Have team retros after every sprint to reflect on strengths and possible areas of improvement
 
 **DEBATE IT** 
- 
-* Ask 5 Why's to ensure our KPIs are solving a real user problem
-* Participate in 360 feedback; normalize praise and constructive criticism by giving feedback regularly
-* Know how to disagree; criticize the idea, not the person
+
+* We encourage collaboration and challenging of ideas through:
+  * pair programming
+  * code reviews
+  * brown bag sessions
+  * Tech Tuesdays (events where we share ideas with our peers)
+* As engineers, we are co-owners of our product goals and are comfortable challenging them.
+* We participate in 360 feedback; normalize praise and constructive criticism by giving feedback regularly.
+* We know how to disagree and challenge the idea, not the person.
 
 **OWN YOUR OUTCOMES**  
 
 * Use available forums to ensure your voice is heard
-* Take action; Found an issue with our deploy strategy? Propose a plan to fix it! Found a bug in the code as you were implementing a feature? Write a story for it!
+* Take action: Found an issue with our deploy strategy? Propose a plan to fix it! Found a bug in the code as you were implementing a feature? Write a story for it!
 * Leave everything better than it was found. If you can make it better in 5 minutes, do it. If you can't, follow up.
 * Break down complex problems into smaller, bite-sized pieces; participate in Inceptions and IPMs
 * Define SMART goals at the individual, team and company level
@@ -84,7 +90,7 @@ We believe that through living by the company values; and coupling them with tec
 **MAKE FAST DECISIONS**  
 
 * Participate in morning stand-ups and have frequent 1:1's
-* Use project management tools to share tasks and progress
+* Follow strong agile processes to 
 * Encourage pair programming and find other ways to share knowledge in and outside of your team
 * Perform code reviews
 * Publish your personal goals openly and align them vertically
