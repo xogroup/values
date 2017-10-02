@@ -49,7 +49,7 @@ We believe that living by the company values; and coupling them with tech specif
 
 **LOVE OUR USERS**  
 
-* Write user stories that voice the problem we are trying to solve from the users’ perspective
+* Write user stories that voice the problem we are trying to solve from the users' perspective
 * Gather data to make decisions using analytics and user testing; allow this data to challenge any preconceived notions
 * Keep the context of our industry relevant by continuously reminding ourselves who our users are
 * Be considerate of those with special needs that are interacting with our products through an accessibility device
@@ -65,7 +65,7 @@ We believe that living by the company values; and coupling them with tech specif
 
 **DEBATE IT** 
  
-* Ask 5 Why’s to ensure our KPIs are solving a real user problem
+* Ask 5 Why's to ensure our KPIs are solving a real user problem
 * Participate in 360 feedback; normalize praise and constructive criticism by giving feedback regularly
 * Know how to disagree; criticize the idea, not the person
 
@@ -88,7 +88,7 @@ We believe that living by the company values; and coupling them with tech specif
 * Encourage pair programming and find other ways to share knowledge in and outside of your team
 * Perform code reviews
 * Publish your personal goals openly and align them vertically
-* Leverage various communication channels such as Slack"
+* Leverage various communication channels such as Slack
 
 **GET BETTER EVERY DAY**  
 
