@@ -2,7 +2,7 @@
 
 ## Motivation
 
-At our bi-annual tech summit, held in Fall of 2016, we identified that our organization lacked consistent principles at the foundation of our decisions and interactions. As a result, we realized that we did not have enough:
+At our bi-annual tech summit in 2016, we identified that our organization lacked consistent principles at the foundation of our decisions and interactions. As a result, we did not have enough:
 
 * Direct challenges of decisions and ideas - especially those communicated from higher up
 * Passionate pursuit of organic initiatives that impact our users
@@ -13,7 +13,7 @@ At our bi-annual tech summit, held in Fall of 2016, we identified that our organ
 
 ## The Process
 
-Our goal was: Define the tech org's values through an inclusive, collaborative process.
+Our goal was to define the tech org's values through an inclusive, collaborative process.
 
 We did this in 3 steps:
 
@@ -23,7 +23,7 @@ We did this in 3 steps:
 
 Further validation that we were onto a good thing came when, independent of our efforts, our company's Executive team identified the need to establish company wide values.
 
-We decided to continue our efforts in parallel, and at the end of it compare our results with those of the broader company, with 1 of 3 eventual outcomes:
+We decided to continue our efforts in parallel, and once completed, compare our results with those of the broader company, with 1 of 3 eventual outcomes:
 
 1. Combine our values with those of the company
 2. Scrap ours altogether
@@ -43,9 +43,9 @@ We quite incredibly came up with a set of values that were remarkably similar to
 
 
 ## The Outcome
-Because of the similarities between the tech values and the company values, we concluded that we should still keep ours as a reference; but align our tech specific tactics that we had originally defined as part of our values, with the company values. 
+Because of the similarities between the tech values and the company values, we concluded that we should still keep ours as a reference; but align our tech specific tactics that we had originally defined as part of our values with the company values. 
 
-We believe that living by the company values; and coupling them with tech specific operational items as well as examples of how to apply the values and tactics within the tech org, serves as a strong foundation for guiding our decisions and initiatives. Below you can find the list of operational items that we identified per company value. This is a living breathing list that is open to ammendment by anyone within our tech org.
+We believe that through living by the company values; and coupling them with tech specific operational items as well as examples of how to apply the values and tactics within the tech org, serves as a strong foundation for guiding our decisions and initiatives. Below you can find the list of operational items that we identified per company value. This is a living breathing list that is open to ammendment by anyone within our tech org.
 
 **LOVE OUR USERS**  
 
@@ -108,4 +108,4 @@ We believe that living by the company values; and coupling them with tech specif
 * Be an ambassador
 
 ## Next Steps
-To conclude this excercise, we will also be adding specific examples of where the company values and the above tactics can be utilized within our tech organization.
+We will continue this initiative by continuing to refine the above lists, and by adding examples of where the company values and the above tactics can be utilized within the day to day efforts of our software teams. We encourage anyone with in the tech org to participate in this process by submitting a PR with changes to this document.
