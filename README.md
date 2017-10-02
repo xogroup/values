@@ -38,8 +38,8 @@ After a thorough effort, where we:
 
 We quite incredibly came up with a set of values that were remarkably similar to those of the company. While the wording and number of values was different, the values instilled in each were much the same. Take a look:
 
-* [a relative link](TECHVALUES.md)
-* [a relative link](COMPANYVALUES.md)
+* [Tech defined values](TECHVALUES.md)
+* [Company defined values](COMPANYVALUES.md)
 
 
 ## The Outcome
