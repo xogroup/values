@@ -32,7 +32,7 @@ We decided to continue our efforts in parallel, and at the end of it compare our
 ## Tech and Company Values
 After a thorough effort, where we:
 
-1. Collected more than 100 ideas from across the tech org
+1. Collected more than [100 ideas](IDEAS.md) from across the tech org
 2. Grouped these and drafted them as values in 6 independent efforts
 3. Took the best of these to form our final values and then associated tech specific tactics with them,
 
