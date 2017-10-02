@@ -49,20 +49,19 @@ We believe that through living by the company values; and coupling them with tec
 
 **LOVE OUR USERS**  
 
-* Technical quality provides user value. We balance both when building software.
-* Write user stories that voice the problem we are trying to solve from the users' perspective
-* Gather data to make decisions using analytics and user testing; allow this data to challenge any preconceived notions
-* Keep the context of our industry relevant by continuously reminding ourselves who our users are
-* Be considerate of those with special needs that are interacting with our products through an accessibility device
-* Recognize the diversity that exists in our user groups who need our tools to be relevant to them
+* Technical quality provides user value. We balance speed with quality when building software and understand the importance of both.
+* We embrace user stories that voice the problem we are trying to solve from the users' perspective.
+* We value user data. We gather data to make decisions using analytics and user testing; allow this data to challenge any preconceived notions we might have.
+* We keep the context of our industry relevant by continuously reminding ourselves who our users are.
+* We are considerate of those with special needs that are interacting with our products through an accessibility device. We think about how to build our software to include these users.
+* We recognize the diversity that exists in our user groups who need our tools to be relevant to them.
 
 **DO THE RIGHT THING**  
 
-* Be a role model: allow your embodiment of these attributes to rub off on others
-* Be considerate of your colleagues that will be supporting your solutions now and in the future
-* Respect the different backgrounds and viewpoints of others and appreciate the value this diversity brings
-* Participate in the recruiting and onboarding process to ensure continuity of culture
-* Have team retros after every sprint to reflect on strengths and possible areas of improvement
+* Be a role model: allow your embodiment of these attributes to rub off on others.
+* Be considerate of your colleagues that will be supporting your solutions now and in the future.
+* Respect the different backgrounds and viewpoints of others and appreciate the value this diversity brings.
+* Participate in the recruiting and onboarding process to ensure continuity of culture.
 
 **DEBATE IT** 
 
@@ -72,46 +71,36 @@ We believe that through living by the company values; and coupling them with tec
   * brown bag sessions
   * Tech Tuesdays (events where we share ideas with our peers)
 * As engineers, we are co-owners of our product goals and are comfortable challenging them.
+* We hold team retros after every sprint to reflect on strengths and possible areas of improvement.
 * We participate in 360 feedback; normalize praise and constructive criticism by giving feedback regularly.
 * We know how to disagree and challenge the idea, not the person.
 
 **OWN YOUR OUTCOMES**  
 
-* Use available forums to ensure your voice is heard
 * Take action: Found an issue with our deploy strategy? Propose a plan to fix it! Found a bug in the code as you were implementing a feature? Write a story for it!
 * Leave everything better than it was found. If you can make it better in 5 minutes, do it. If you can't, follow up.
-* Break down complex problems into smaller, bite-sized pieces; participate in Inceptions and IPMs
-* Define SMART goals at the individual, team and company level
-* Work with your manager to ensure we are making progress to achieving our goals
-* Find the right path to success: get it done vs. measure twice, cut once
-* Create the right environment for success; a highly aligned, loosely coupled team structure
-* Agree broadly on directions and empower narrowly to achieve them"
+* Our agile process allows ownership of what you build. Starting with Inception gatherings and followed by regular iterative planning meetings, engineers have a say in everything they build.
+* Define SMART goals at the individual, team and company level.
+* We have a strong focus on engineering career progression, with a well-defined career path and the support structures for you to take ownership of your own progression.
+* Find the right path to success: get it done vs. measure twice, cut once.
+* Publish your personal goals openly and align them vertically.
 
 **MAKE FAST DECISIONS**  
 
-* Participate in morning stand-ups and have frequent 1:1's
-* Follow strong agile processes to 
-* Encourage pair programming and find other ways to share knowledge in and outside of your team
-* Perform code reviews
-* Publish your personal goals openly and align them vertically
-* Leverage various communication channels such as Slack
+* A strong focus on test coverage and TDD allows us to have the confidence to react quickly to decisions and change our course.
+* We use strong agile processes and tools to ensure we are building software as efficiently as possible.
+* We appreicate the approach of build it, ship it and iterate.
+* We don't fear failure; we are comfortable failing fast and learning from the experience.
 
 **GET BETTER EVERY DAY**  
 
-* Build it, ship it and iterate
-* Don't fear failure; fail fast and learn from the experience
-* Ensure that we are gathering the right data to make the right decisions
-* Recognize that the work we do is a work in progress and code is never finished
-* Challenge existing patterns as the best solution might be an alternative approach
-* Have a growth mindset; be a self-motivated learner
-* Give praise and constructive criticism to help your teammates grow
-* Protect spaces for creative development and growth, such as 10% time and biannual Hackathons
-* Promote knowledge-sharing through guild meetings, the Mentorship program and XOIT workshops
-* Contribute to the open source community
-* Share your learnings with the greater tech community
-* Write about your experiences and publish them
-* Participate in professional engagements such as conferences or Meetups
-* Be an ambassador
+* We encourage pair programming and sharing of knowledge in and outside of our teams.
+* We protect spaces for creative development and growth, such as 10% time and biannual Hackathons.
+* We promote knowledge-sharing through guild meetings, the Mentorship program and XOIT workshops.
+* We contribute to the open source community and knowledge share with the greater tech community through Meetups and other community initiatives.
+* We recognize that the work we do is a work in progress and code is never finished.
+* We challenge existing patterns as the best solution might be an alternative approach.
+* We appreciate a growth mindset and self-motivated learners.
 
 ## Next Steps
 We will continue this initiative by continuing to refine the above lists, and by adding examples of where the company values and the above tactics can be utilized within the day to day efforts of our software teams. We encourage anyone with in the tech org to participate in this process by submitting a PR with changes to this document.
